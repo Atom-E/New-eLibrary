@@ -1,0 +1,41 @@
+body {
+    height: 100%;
+    margin: 0;
+    padding-top: 0;
+}
+
+nav {
+    background-color: rgb(9, 9, 214);
+}
+#awesomefooter {
+    background-color: rgb(9, 9, 214);
+}
+#awesomefooter a {
+  color: aliceblue;
+}
+
+.navbar li > a {
+    padding: 0 10px 0 10px;
+    height: 80%;
+    width: 109px;
+    line-height: 30px;
+    font-family: sans-serif;
+    font-size: 17px;
+    
+}
+.sidebar {
+    background-color: aliceblue;
+}
+
+a {
+  text-decoration: none; 
+}
+h5 {
+  color: #1b1a1a;
+}
+.navbar li:hover > a {
+    color: #220000;
+    background-color: #5582fd;
+  }
+
+
